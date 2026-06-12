@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @Yariv3G
-- 👀 I’m interested in Sonic Range Findind (SRF) and Radar applications
-- 🌱 I’m currently learning how to use Cloud services for Blynk and Arduino
-- 💞️ I’m looking to collaborate on coding the correct cde for an ESP8266 MCU
-- 📫 How to reach me via mail yariv.shavit@gmail.com
+# Hi, I'm Yariv Shavit 👋
 
-<!---
-Yariv3G/Yariv3G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+RF Automation and ATE Development Engineer based in Israel.
+
+I work on:
+- RF measurement automation
+- SCPI/VISA instrument control
+- Software Defined Radio
+- Radar and Sonar projects 
+- Python test applications
+- Raspberry Pi and embedded systems
+- RF signal analysis and calibration
+
+## Technologies
+
+`Python` `PyVISA` `SCPI` `SDR` `Linux` `Raspberry Pi` `ESP32` `Git`
+
+## Current Projects
+
+- Transparent SCPI protocol proxy for test instruments
+- SDR-based RF recording and analysis systems
+- Automated RF calibration and measurement tools
+- Embedded laboratory control devices
+
+## Contact
+
+- GitHub: `@yariv-shavit`
+- LinkedIn: linkedin.com/in/yariv-shavit-8042a82
+- Email: yariv.shavit@gmail.com
+- Youtube: https://www.youtube.com/user/84YANG
